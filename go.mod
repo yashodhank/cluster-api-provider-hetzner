@@ -1,6 +1,6 @@
 module github.com/syself/cluster-api-provider-hetzner
 
-go 1.17
+go 1.18
 
 replace sigs.k8s.io/cluster-api => sigs.k8s.io/cluster-api v1.1.3
 
